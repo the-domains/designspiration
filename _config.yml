@@ -1,7 +1,7 @@
 name: Designspiration
 favicon: null
-layout_spectrum: 0.850966566009447
-typography_spectrum: 0.6679442396853119
+layout_spectrum: 1
+typography_spectrum: 0.24859
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.4725941950455308
+  brandStrength: 0.75
   lightness: 0.6397774438373744
   saturation: 0.6582508869469166
   rhythmicContrast: 0.36056396109052
