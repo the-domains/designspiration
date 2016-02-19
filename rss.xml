@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Designspiration]]></title>
+        <description><![CDATA[Designspiration]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 19 Feb 2016 09:46:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Analysis - Jon Sopel, North America editor]]></title>
+            <description><![CDATA[<article><h1>Analysis - Jon Sopel, North America editor</h1><p>Republican presidential candidate Donald Trump has heaped praise on Pope Francis, hours after the pontiff questioned his Christian faith.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bccac6a6-38e5-47f1-b862-ef41eaddf21a.jpg"></article>]]></description>
+            <link>undefinedd56bd03b-24ac-463d-8b99-7c1ad053871a/index.html</link>
+            <guid isPermaLink="false">d56bd03b-24ac-463d-8b99-7c1ad053871a</guid>
+            <pubDate>Fri, 19 Feb 2016 09:46:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
